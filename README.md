@@ -1,4 +1,5 @@
-# PasswordHashing - Light generating and comparing password hashing with argon2, better Bcrypt
+# PasswordHashing
+> Light generating and comparing password hashing with argon2, better Bcrypt
 
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/go-zoox/password-hashing)](https://pkg.go.dev/github.com/go-zoox/password-hashing)
 [![Build Status](https://github.com/go-zoox/password-hashing/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/go-zoox/password-hashing/actions/workflows/ci.yml)
